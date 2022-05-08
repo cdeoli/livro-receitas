@@ -12,6 +12,8 @@
 
 - 300 g de mussarela
 
+
+
 <h2> Modo de Preparo</h2>
 
 - Bata todos os ingredientes no liquidificador.
