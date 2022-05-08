@@ -11,7 +11,7 @@
 <h3> Recheio: </h3>
 
 - 300 g de mussarela
-<\n>
+
 <h2> Modo de Preparo</h2>
 
 - Bata todos os ingredientes no liquidificador.
