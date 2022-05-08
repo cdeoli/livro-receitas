@@ -9,7 +9,8 @@
 - Sal a gosto
 
 <h3> Recheio: </h3>
-300 g de mussarela
+
+- 300 g de mussarela
 
 <h2> Modo de Preparo</h2>
 
