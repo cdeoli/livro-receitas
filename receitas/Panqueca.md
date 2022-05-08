@@ -1,11 +1,12 @@
 <h1> Panqueca de Queijo </h1>
 <h2> Ingredientes </h2>
 <h3> Massa: </h3>
-1 copo (250 ml) de leite
-1 copo de farinha de trigo
-2 ovos
-1/2 cebola
-Sal a gosto
+
+- 1 copo (250 ml) de leite
+- 1 copo de farinha de trigo
+- 2 ovos
+- 1/2 cebola
+- Sal a gosto
 
 <h3> Recheio: </h3>
 300 g de mussarela
