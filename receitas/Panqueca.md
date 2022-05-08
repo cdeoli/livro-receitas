@@ -1,6 +1,7 @@
 <h1> Panqueca de Queijo </h1>
 <h2> Ingredientes </h2>
 <h3> Massa: </h3>
+
 - 1 copo (250 ml) de leite
 - 1 copo de farinha de trigo
 - 2 ovos
@@ -8,9 +9,11 @@
 - Sal a gosto
 
 <h3> Recheio: </h3>
+
 - 300 g de mussarela
 
 <h2> Modo de Preparo</h2>
+
 - Bata todos os ingredientes no liquidificador.
 - Coloque meia concha desta massa numa frigideira untada com óleo e aquecida. Espalhe a masa até ficar fina cobrindo toda frigideira.
 - Levante com uma escumadeira de leve e observe quando ela estiver ficando douradinha. Vire e coloque uma fatia de mussarela.
