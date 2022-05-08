@@ -11,6 +11,7 @@ Sal a gosto
 300 g de mussarela
 
 <h2> Modo de Preparo</h2>
+
 - Bata todos os ingredientes no liquidificador.
 
 - Coloque meia concha desta massa numa frigideira untada com óleo e aquecida. Espalhe a masa até ficar fina cobrindo toda frigideira.
